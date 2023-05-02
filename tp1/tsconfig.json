@@ -1,0 +1,10 @@
+{ 
+ "compilerOptions": { 
+ "strict": true, 
+ "strictNullChecks": false,
+ "outDir": "build", 
+ "rootDir": "source",
+ "noImplicitOverride": true
+
+ } 
+} 

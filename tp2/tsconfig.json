@@ -1,0 +1,11 @@
+{ 
+ "compilerOptions": { 
+    "target" : "esnext",
+    "strict": true, 
+    "strictNullChecks": false,
+    "outDir": "build", 
+    "rootDir": "source",
+    "noImplicitOverride": true,
+    "lib": [ "esnext", "dom" ]
+ } 
+} 
